@@ -1,0 +1,17 @@
+# Laravel vendor and node_modules
+/vendor
+/node_modules
+
+# Environment file
+.env
+.env.*.backup
+
+# Logs and cache
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+
+# IDE files and OS-specific files
+.idea
+.DS_Store
+Thumbs.db
